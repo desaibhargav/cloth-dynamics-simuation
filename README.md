@@ -4,4 +4,4 @@ For a presentation slides created for the project, see [here](https://docs.googl
 
 A folder with results (cloth simulation videos) is also provided and will keep on being updated [here](https://drive.google.com/drive/folders/1qzokQrqSDyEo7co7BP7vYTPd3x21LBmI?usp=share_link)
 
-Note: The training pipeline will be released shortly (checking with the authors for any conflicts or potential issues on which the project implementation is based). 
+Note: The training pipeline will be released shortly (post a qucik check with the authors of works on which the project implementation is based, for any conflicts or potential issues). 
